@@ -73,10 +73,11 @@ To access more filtering options, click the filter icon:
 
 ## Repository Contents
 - **README.md** → Project documentation
-- **Superstore.csv** → dataset file
-- **Icons/** → filter icon & Sales icon
+- **Superstore.csv** → Dataset file
+- **Icons/** → Filter icon & Sales icon
 - **Superstore-Dashboard.twb** → Tableau workbook
 - **Dashboard-Screenshots/** → Dashboard images
+- **.gitignore** → Files to be ignored
 
 
 ## View Dashboard Online
