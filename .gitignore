@@ -1,2 +1,5 @@
 # Ignore Tableau auto-backup files
 *.twbr
+
+# Ignore temporary system files
+.DS_Store
