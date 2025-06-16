@@ -14,8 +14,8 @@ To visualize key retail metrics and enable users to interactively explore sales,
 
 
 ## Tools Used
-- **Tableau Public Desktop** – for designing and building the dashboard  
-- **Tableau Public Online** – for publishing and sharing the dashboard online  
+- **Tableau Desktop Public Edition** – for designing and building the dashboard  
+- **Tableau Public (Website)** – for publishing and sharing the dashboard online  
 - **GitHub** – for version control and documentation
 
 ## Dashboard Structure
@@ -81,6 +81,6 @@ To access more filtering options, click the filter icon:
 
 
 ## View Dashboard Online
-- 🔗 **[Click here](https://public.tableau.com/views/Superstore-Dashboard_17479456534070/RetailDashboard?:language=en-US&:sid=02B731CF11CF494C9652C2D7D12AEEEE-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)** to view Dashboard on Tableau public online.  
+- 🔗 **[Click here](https://public.tableau.com/views/Superstore-Dashboard_17479456534070/RetailDashboard?:language=en-US&:sid=02B731CF11CF494C9652C2D7D12AEEEE-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)** to view Dashboard on Tableau public website.  
 
 **Note**: Designed for desktop view – best at **1200x800** resolution
